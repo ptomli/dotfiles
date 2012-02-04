@@ -56,4 +56,4 @@ an problem, please [open an issue](https://github.com/ptomli/dotfiles/issues).
 
 ## thanks
 
-I forked [Jach Holmans](http://github.com/holman)' [dotfiles](http://github.com/holman/dotfiles).
+I forked [Zach Holmans](http://github.com/holman)' [dotfiles](http://github.com/holman/dotfiles).
