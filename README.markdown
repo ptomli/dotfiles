@@ -11,11 +11,10 @@ about why sharing dotfiles is cool.
 
 - `git clone git://github.com/ptomli/dotfiles ~/.dotfiles`
 - `cd ~/.dotfiles`
-- `rake install`
+- `script/bootstrap`
 
-The install rake task will symlink the appropriate files in `.dotfiles` to your
-home directory. Everything is configured and tweaked within `~/.dotfiles`,
-though.
+This will symlink the appropriate files in `.dotfiles` to your home directory.
+Everything is configured and tweaked within `~/.dotfiles`.
 
 The main file you'll want to change right off the bat is `zsh/zshrc.symlink`,
 which sets up a few paths that'll be different on your particular machine.
