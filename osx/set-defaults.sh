@@ -14,6 +14,7 @@ defaults write -g ApplePressAndHoldEnabled -bool false
 defaults write com.apple.NetworkBrowser BrowseAllInterfaces 1
 
 # Always open everything in Finder's list view. This is important.
+# (The four letter codes for the view modes are icnv, Nlsv, clmv and Flwv)
 defaults write com.apple.Finder FXPreferredViewStyle Nlsv
 
 # Show the iCal debug menu
