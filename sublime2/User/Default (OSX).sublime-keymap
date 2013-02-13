@@ -1,2 +1,10 @@
 [
+	{
+		"keys": ["ctrl+shift+x"],
+		"command": "tidy_xml_lint"
+	},
+	{
+		"keys": ["ctrl+shift+j"],
+		"command": "prettyjson"
+	}
 ]
