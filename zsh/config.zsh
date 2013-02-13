@@ -7,6 +7,10 @@ fi
 export LSCOLORS="exfxcxdxbxegedabagacad"
 export CLICOLOR=true
 
+# http://stackoverflow.com/a/7413863/134894
+export LC_CTYPE=en_US.UTF-8
+export LC_ALL=en_US.UTF-8
+
 fpath=($ZSH/zsh/functions $fpath)
 
 autoload -U $ZSH/zsh/functions/*(:t)
