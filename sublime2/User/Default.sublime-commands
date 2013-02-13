@@ -1,6 +1,10 @@
 [
+	{
+		"caption": "Format XML",
+		"command": "tidy_xml_lint"
+	},
     {
-        "caption": "Pretty JSON: Reformat (Pretty Print) JSON",
-        "command": "prettyjson"
+		"caption": "Format JSON",
+		"command": "prettyjson"
     }
 ]
