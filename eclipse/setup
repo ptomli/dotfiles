@@ -1,0 +1,9 @@
+#!/bin/sh
+# Setup a machine for Eclipse
+set -x
+
+# symlink settings in
+eclipse_dir=~/.eclipse
+
+mv "$eclipse_dir/mechanic" "$eclipse_dir/mechanic.backup"
+ln -s "$ZSH/eclipse/mechanic" "$eclipse_dir/mechanic"
