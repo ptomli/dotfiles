@@ -8,6 +8,7 @@
 	"soda_classic_tabs": false,
 	"color_scheme": "Packages/Color Scheme - Default/Dawn.tmTheme",
 
+	"word_wrap": false,
 	"tab_size": 4,
 	"translate_tabs_to_spaces": false,
 
