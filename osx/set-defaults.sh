@@ -17,6 +17,9 @@ defaults write com.apple.NetworkBrowser BrowseAllInterfaces 1
 # (The four letter codes for the view modes are icnv, Nlsv, clmv and Flwv)
 defaults write com.apple.Finder FXPreferredViewStyle Nlsv
 
+# Allow text selection in quick look
+defaults write com.apple.finder QLEnableTextSelection -bool true
+
 # Show the iCal debug menu
 defaults write com.apple.iCal IncludeDebugMenu 1
 
