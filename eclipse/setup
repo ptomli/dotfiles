@@ -1,4 +1,8 @@
 #!/bin/sh
+#
+# You probably want to look here first
+# https://code.google.com/a/eclipselabs.org/p/workspacemechanic/wiki/GettingStarted
+#
 # Setup a machine for Eclipse
 set -x
 
