@@ -9,5 +9,7 @@ set -x
 # symlink settings in
 eclipse_dir=~/.eclipse
 
+mkdir $eclipse_dir
+
 mv "$eclipse_dir/mechanic" "$eclipse_dir/mechanic.backup"
 ln -s "$ZSH/eclipse/mechanic" "$eclipse_dir/mechanic"
