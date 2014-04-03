@@ -1,0 +1,40 @@
+'exception-reporting':
+  'userId': '54128a11-8d0c-95e8-a88a-cc19b9a744ad'
+'release-notes':
+  'viewedVersion': '0.81.0'
+'welcome':
+  'showOnStartup': false
+'metrics':
+  'userId': '3f3372cc2ab0ba7769020e7e7f82222d3b9bf770'
+'editor':
+  'fontFamily': 'Source Code Pro'
+  'tabLength': 4
+  'autoIndent': true
+  'autoIndentOnPaste': true
+  'softWrap': false
+  'showInvisibles': true
+  'invisibles':
+    'cr': '↩'
+  'showIndentGuide': true
+  'showLineNumbers': true
+  'fontSize': 12
+'core':
+  'projectHome': '~/Documents/Projects'
+  'themes': [
+    'atom-light-ui'
+    'solarized-dark-syntax'
+  ]
+  'ignoredNames': [
+    '.git'
+    '.svn'
+    '.DS_Store'
+  ]
+  'hideGitIgnoredFiles': true
+  'disabledPackages': []
+  'destroyEmptyPanes': false
+'tree-view':
+  'hideIgnoredNames': true
+'whitespace':
+  'ensureSingleTrailingNewline': true
+  'removeTrailingWhitespace': true
+  'ignoreWhitespaceOnCurrentLine': false
