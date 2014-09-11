@@ -6,3 +6,8 @@
 *.swp
 *.rbc
 *.pyc
+
+.classpath
+.settings
+.project
+.springBeans
