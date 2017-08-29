@@ -12,7 +12,7 @@ then
   brew update
 
   # Install homebrew packages
-  brew install grc coreutils spark
+  brew install grc coreutils spark direnv
 else
   # echo "  x You should probably install Homebrew first:"
   # echo "    https://github.com/mxcl/homebrew/wiki/installation"
